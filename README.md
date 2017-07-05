@@ -1,1 +1,0 @@
-# vSphere-VR-integration
